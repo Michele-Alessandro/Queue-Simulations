@@ -1,2 +1,2 @@
-# queues
-Queue Modeling test
+# Readme
+Exploring queues simulation.
